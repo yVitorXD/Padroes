@@ -6,7 +6,7 @@ public class Client {
 		
 		FastFoodMeal burgerCombo = new FastFoodMealBuilder("Fries")
 				.andMain("CheeseBurger")
-				.forDrink("Coke")
+				.forDrink("Coke's")
 				.thatsAll();
 		System.out.println(burgerCombo);
 		
